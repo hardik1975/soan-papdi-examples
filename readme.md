@@ -9,7 +9,7 @@ The goal of this project is to make learning FPGAs simple and approachable using
 This repository contains example designs demonstrating the board's onboard peripherals and common FPGA concepts. Whether you're blinking an LED, interfacing with external hardware, or exploring digital design, these examples are intended to help you get started quickly.
 
 **Crowd Supply pre-launch page:** \
-https://www.crowdsupply.com/ashoktinkeringlabs/soan-papdi \
+https://www.crowdsupply.com/ashoktinkeringlabs/soan-papdi 
 
 **Project website:** \
 https://www.ashoktinkeringlabs.com/soan-papdi
