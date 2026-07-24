@@ -1,0 +1,5 @@
+# 12 MHz Clock
+set_io clk 35
+
+# Servo Signal Output
+set_io servo 23
