@@ -1,0 +1,16 @@
+# 12 MHz Clock
+set_io clk 35
+
+# Servo Signal Output
+set_io rst_n 12
+set_io echo 28
+set_io trig 27
+set_io leds[0] 31
+set_io leds[1] 32
+set_io leds[2] 34
+set_io leds[3] 36
+set_io leds[4] 37
+set_io leds[5] 44
+set_io leds[6] 45
+set_io leds[7] 46
+
