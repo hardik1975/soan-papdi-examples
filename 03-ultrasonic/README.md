@@ -17,12 +17,13 @@ The HC-SR04 sensor runs on 5V, so its echo pin outputs 5V signals. The iCE40UP5K
 
 Build this circuit:
 
+```
 HC-SR04 Echo (5V) ----[ 1 kOhm Resistor ]----+---- FPGA Input Pin (3.3V)
-                                             |
-                                      [ 2 kOhm Resistor ]
-                                             |
-                                           GND (0V)
-
+                                              |
+                                       [ 2 kOhm Resistor ]
+                                              |
+                                            GND (0V)
+```
 
 ## Pin connections
 
