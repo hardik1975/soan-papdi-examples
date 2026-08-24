@@ -1,0 +1,18 @@
+# 12 MHz Clock
+set_io clk 35
+
+set_io mode[0] 3
+set_io mode[1] 48
+set_io run 4
+set_io reset 12
+set_io comm[0] 18
+set_io comm[1] 19
+set_io comm[2] 20
+set_io seg[0] 28
+set_io seg[1] 27
+set_io seg[2] 26
+set_io seg[3] 25
+set_io seg[4] 23
+set_io seg[5] 13
+set_io seg[6] 21
+
