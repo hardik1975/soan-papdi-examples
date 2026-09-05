@@ -1,0 +1,8 @@
+
+set_io o_miso 28
+set_io i_ss_n 27
+set_io i_sck 26
+set_io i_mosi 25
+set_io o_cordic_done 31 
+
+set_io rst 12
